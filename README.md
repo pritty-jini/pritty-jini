@@ -1,6 +1,4 @@
-## Welcome to my Github💜💜
-
-
+![github-gif](https://github.com/user-attachments/assets/8e7a09bf-33ef-4b4f-ab46-168cd60179a3)
 
 
 
@@ -17,4 +15,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## Welcome to my Github💜💜
 -->
