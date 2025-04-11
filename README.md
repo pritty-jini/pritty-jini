@@ -1,4 +1,5 @@
-## Hi there 👋
+## 💜Welcome to my github💜
+![github](https://github.com/user-attachments/assets/19ca2e3d-1522-4825-b73c-9443e9f8f101)
 
 <!--
 **pritty-jini/pritty-jini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
