@@ -1,7 +1,5 @@
-
-
 <p align="center">
-  <img src="![github-gif](https://github.com/user-attachments/assets/8e7a09bf-33ef-4b4f-ab46-168cd60179a3)" alt="log" width="300" />
+  <img src="https://github.com/user-attachments/assets/8e7a09bf-33ef-4b4f-ab46-168cd60179a3" alt="log" width="300" />
 </p>
 
 
